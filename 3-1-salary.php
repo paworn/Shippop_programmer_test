@@ -11,6 +11,7 @@
       $salary += 200;
     } else {
       $salary += 300;
+      ///เขียน else ผิดไปอันนึง
     }
     echo $salary, "\n";
   }
